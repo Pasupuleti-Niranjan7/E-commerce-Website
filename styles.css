@@ -93,7 +93,7 @@ body {
 /* Hero Section */
 .hero {
         margin-top: 4.9rem;
-        background-color: #1d4fd8c8;
+        background-image: url('background.jpg');
         background-size: cover;
         height: 590px;
         color: white;
